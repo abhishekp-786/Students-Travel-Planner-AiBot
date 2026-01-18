@@ -48,15 +48,17 @@ All features are integrated into an easy-to-use Streamlit web application.
 
 ## 📂 Project Structure
 
-├── app.py # Main Streamlit application
-├── itinerary.py # AI prompt & itinerary generation
-├── budget.py # Budget estimation logic
-├── maps.py # Map visualization module
-├── weather.py # Weather API integration
-├── utils.py # Hugging Face API helper
-├── requirements.txt # Dependencies
-└── .env # API keys (not pushed to GitHub)
----
+AI-Travel-Planner  
+│  
+├── app.py              → Main Streamlit application  
+├── itinerary.py        → AI prompt & itinerary generation  
+├── budget.py           → Budget estimation logic  
+├── maps.py             → Map visualization module  
+├── weather.py          → Weather API integration  
+├── utils.py            → Hugging Face API helper  
+├── requirements.txt    → Dependencies  
+└── .env                → API keys (not pushed to GitHub)
+
 
 ## ⚙ Installation & Setup
 
